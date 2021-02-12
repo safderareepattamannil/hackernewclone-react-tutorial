@@ -1,0 +1,30 @@
+/** Utilities **/
+.bold {
+    font-weight: bold;
+}
+
+:root{
+--orange: #ff6600;
+}
+
+/** Globals **/
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    color: black;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+

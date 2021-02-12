@@ -1,0 +1,27 @@
+/** Navigation Styling **/
+.navigation {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: var(--orange);
+  color: black;
+  padding: 2px;
+  width: 100%;
+}
+
+.navigation a {
+  padding: 0px 5px;
+}
+
+.hn-logo {
+  border: 1px solid white;
+  margin-top: 2px;
+}
+
+.title {
+  margin-right: 5px;
+}
+
+.navigation .login {
+  margin-left:auto;
+}
