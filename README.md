@@ -5,10 +5,11 @@
 
 ***
 
-**Part 1**: [Introduction to the World of React](https://www.colorcoder.dev/react-hackernews-1)
+**Part 1**: [What is React?](https://www.colorcoder.dev/react-hackernews-1)
 
-**Part 2**: [What does Create-React-App Include?](https://www.colorcoder.dev/react-hackernews-2)
+**Part 2**: [Create-React-App Internals](https://www.colorcoder.dev/react-hackernews-2)
 
+**Part 3**: [JSX and adding CSS To Your React App](https://www.colorcoder.dev/react-hackernews-3)
 
 
 
