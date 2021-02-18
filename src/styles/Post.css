@@ -1,0 +1,40 @@
+.post-container{
+
+    padding: 5px;
+    margin: 0px;
+}
+
+.top{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.rank{
+    font-size: 15px;
+    color:var(--grey);
+}
+
+.upvote{
+    width: 10px;
+    height: 10px;
+    padding: 0px 2px;
+    background: url('../assets/upvote.gif') no-repeat;
+}
+
+.title{
+    font-size: 15px;
+}
+
+.url{
+    font-size: 12px;
+    padding-left: 2px;
+    color:var(--grey)
+}
+
+.bottom{
+    font-size: 12px;
+    padding-left: 2px;
+    color:var(--grey);
+    padding-left: 25px;
+}

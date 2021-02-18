@@ -1,0 +1,8 @@
+.posts-container{
+    background-color:#f6f6ef;
+    height: 100vh;
+}
+
+.posts-container > :first-child{
+    padding-top: 10px;
+}
