@@ -2,6 +2,12 @@
 
 [Check out the blog!](https://www.colorcoder.dev/)
 
+**Setup** 
+
+1. Fork your own copy of this repository.
+2. Clone the repository
+3. Run `cd hackernewclone-react-tutorial && npm run start`
+
 
 ***
 
